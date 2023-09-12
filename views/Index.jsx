@@ -1,5 +1,5 @@
 const React = require('react');
-a
+
 class Index extends React.Component {
     render() {
         const myStyle = {
