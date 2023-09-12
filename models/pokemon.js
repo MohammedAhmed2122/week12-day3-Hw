@@ -1,5 +1,5 @@
 const mongoose = require('mongoose')
-
+a
 const pokemonSchema = new mongoose.Schema({
     name: { type: String, required: true },
     img: {type: String, required: true }
